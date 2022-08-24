@@ -13,13 +13,13 @@
   * oppure andate sulla tab **Console**
 
     * puo' essere equiparata ad un terminale
-    * Date un occhiata ai vari metodi -> https://www.w3schools.com/jsref/obj_console.asp
+    * Date un occhiata ai vari metodi -> <https://www.w3schools.com/jsref/obj_console.asp>
     * se modificate il file di script potete provare diverse cose
   * potete anche "provare" il css "al volo"
   * andate sulla tab **Elements**
 
     * in styles, provate a vedere come modificare delle cose...
-      * provate a modificare https://www.difesa.it/Pagine/default.aspx
+      * provate a modificare <https://www.difesa.it/Pagine/default.aspx>
       * state hackando?
       * Se vi piace un'applicazione web, fate inspect
         * cercate di capire cosa fa
